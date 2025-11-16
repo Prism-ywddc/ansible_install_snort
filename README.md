@@ -1,0 +1,2 @@
+# ansible_install_snort
+用于在RedHad系的系统快速安装snort
